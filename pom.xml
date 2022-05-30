@@ -6,15 +6,15 @@
   <artifactId>my-app</artifactId>
   <version>1.0-SNAPSHOT</version>
  
-  <properties>
+  <!--properties>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
-  <!--/properties-->
+  </properties-->
   
-  <!--properties-->
+  <!--properties>
     <sonar.organization>yhwugithub-sonarcloud</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  </properties>
+  </properties-->
  
   <dependencies>
     <dependency>
